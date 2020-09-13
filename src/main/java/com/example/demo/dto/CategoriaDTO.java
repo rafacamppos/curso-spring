@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 import com.example.demo.domain.Categoria;
 
-public class CategoriaDTO implements Serializable{
+public class CategoriaDTO implements Serializable{//Data Transfer Object
 	private static final long serialVersionUID = 1L;
 	
 	private Integer id;
